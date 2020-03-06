@@ -1,6 +1,3 @@
-
-
-
 #module 1
 import re
 import tweepy,csv
